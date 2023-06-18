@@ -99,5 +99,14 @@ footer{
     padding: 40px;
 }
 
-
+a:link{
+    color: white;
+}
+a:visited
+{
+    color: white;
+}
+a:hover{
+    color: lightblue;
+}
 
